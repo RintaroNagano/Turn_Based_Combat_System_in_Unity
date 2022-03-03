@@ -45,10 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   unitName: Teacher
-  unitLebel: 20
+  unitLevel: 30
   damage: 10
   maxHP: 250
-  currentHP: 240
+  currentHP: 200
 --- !u!1 &7928312729553465485
 GameObject:
   m_ObjectHideFlags: 0
